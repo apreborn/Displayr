@@ -11,7 +11,7 @@ variable "creds_file" {
 default = "credentials"
 }
 variable "instance_key" {
-default = "aws_ec2_pem_file_name2"
+default = "terraform-key"
 }
 variable "vpc_cidr" {
 default = "178.0.0.0/16"
