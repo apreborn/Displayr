@@ -196,6 +196,7 @@ echo "$DATE - Apache running fine"
 fi
 ```
 - Steps to run healthcheck - ``` sudo sh healthcheck.sh```
+- <img width="379" alt="healthcheck_script" src="https://user-images.githubusercontent.com/13806249/151778147-ff694082-7eef-4692-bf03-959fd686a81d.png">
 ## Steps to run Terraform
 ```
 terraform init
